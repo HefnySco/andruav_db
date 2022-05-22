@@ -1,4 +1,4 @@
-## Drone-Engage Database
+## Drone-Engage & Andruav Database
 
 This is the database schema uses by Andruav & Drone-Engage. It is part of Ardupilot Cloud Echo System.
 
